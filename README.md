@@ -2,4 +2,4 @@
 
 | Направление | Сертификат |
 |-------------|------------|
-| Python |[ABC-XYZ анализ в SQL](files/ABC-XYZ анализ в SQL.pdf)|
+|      Python |[ABC-XYZ анализ в SQL](files/ABC-XYZ анализ в SQL.pdf)|
