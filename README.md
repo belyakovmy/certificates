@@ -1,6 +1,6 @@
 # Сертификаты
 
-Эти и другие мои сертификаты на [stepik](https://stepik.org/users/742644960/certificates)
+Эти и другие мои сертификаты на [stepik](https://stepik.org/users/742644960/certificates).
 
 | Направление | Сертификат |
 |-------------|------------|
