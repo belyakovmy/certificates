@@ -9,6 +9,7 @@
 | Pandas |[Python: анализ данных с Pandas](files/Python.%20анализ%20данных%20с%20Pandas.pdf)|
 | Pandas |[Изучаем Pandas на финансовых данных](files/Изучаем%20Pandas%20на%20финансовых%20данных.pdf)|
 | Matplotlib |[Библиотека Matplotlib](files/Библиотека%20Matplotlib.%20Визуализация%20данных%20в%20Python.pdf)|
+| Seaborn |[Библиотека Seaborn. Статистическая визуализация данных](files/Библиотека%20Seaborn.%20Статистическая%20визуализация%20данных%20в%20Python.pdf)|
 | SQL |[Интерактивный тренажер по SQL](files/Интерактивный%20тренажер%20по%20SQL.pdf)|
 | SQL |[SQL для всех. Level Up](files/SQL%20для%20всех.%20Level%20Up.pdf)|
 | SQL |[SQL: оконные функции](files/SQL%20оконные%20функции.pdf)|
